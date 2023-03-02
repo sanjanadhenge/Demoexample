@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Demoexample.Greatest_among_three</StartupObject>
+    <StartupObject>Demoexample.primenumber</StartupObject>
   </PropertyGroup>
 
 </Project>
